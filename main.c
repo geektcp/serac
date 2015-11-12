@@ -11,8 +11,8 @@
  *       Compiler:  gcc
  *
  *         Author:  Haiyang Tang
- *        Website:  https://www.geektcp.com
- *          Email:  admin@geektcp.com
+ *        Website:  http://geektcp.com
+ *          Email:  geektcp@163.com
  *
  * =====================================================================================
  */
