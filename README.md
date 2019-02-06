@@ -1,4 +1,4 @@
-# packet_creator
+# packetBuilder
 这是一个数据包生成器。
 
 是我两年前为了验证之前学的TCP/IP原理，CCNP(思科高级网络工程师)相关底层知识而写的一个C语言开发的工具。
