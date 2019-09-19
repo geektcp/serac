@@ -2,12 +2,12 @@ all: packets_creator
 	
 
 packets_creator:
-	gcc -g main.c arp.c udp.c tcp.c checksum.c payload.c icmp.c -o packets_creator
+	gcc -g src/*.c -o ./release/packets_creator
 
 
 clean:
-	rm -rf ./packets_creator
+	rm -rf ./release/packets_creator
 
 
 start:
-	make clean && make && ./packets_creator
+	make clean && make && ./release/packets_creator
