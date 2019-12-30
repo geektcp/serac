@@ -2,7 +2,7 @@ all: packets_creator
 	
 
 packets_creator:
-	gcc -g src/*.c -o ./release/packets_creator
+	gcc -g src/packet/*.c -o ./release/packets_creator
 
 
 clean:
