@@ -10,8 +10,9 @@
 > SRPC协议， 基于SCP传输层协议的应用层RPC协议，远程过程调用
 
 ```
-底层传输库
-java封装工具库
+底层传输库，重建一套socket套接字(Linux C)
+底层套接字封装工具包java库SSocket(Java, 基于JNA，SCP套接字编程库)
+上层套接字封装库工具包serac(就像netty封装Socket一样, serac封装SSocket)
 ```
 
 
