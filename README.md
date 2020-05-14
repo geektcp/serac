@@ -1,6 +1,6 @@
 # alpha-serac
 > serac系统要做什么？ <br/>
-创造一套传输层协议SCP(Serac-Controll-Protocol)，天生具有数据加密特性！融合TCP传输控制机制，UDP高效传输性。
+创造一套传输层协议SCP(Serac-Controll-Protocol)，天生具有数据加密特性！融合TCP传输控制机制，UDP高效传输性。<br/>
 创造一套java语言的底层网络封装工具，支持原始套接字，支持SCP协议
 
 
